@@ -58,7 +58,7 @@ Whitespace is defined to be spaces, tabs, and newlines.
 
 Leading and trailing whitespace is trimmed.
 
-Internal consecutive blocks of whitespace are replaced by a single space, except in the case that the whitespace block contains of multiple blank lines, in which case it will be replaced with a number of newlines equal to the number of contained blank lines minus one.
+Internal consecutive blocks of whitespace are replaced by a single space, except in the case that the whitespace block contains multiple blank lines, in which case it will be replaced with a number of newlines equal to the number of contained blank lines minus one.
 
 So:
 
